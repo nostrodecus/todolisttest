@@ -1,0 +1,32 @@
+/* 
+    Document   : main
+    Created on : Sep 19, 2011, 1:37:58 PM
+    Author     : declan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+/* common */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+body {
+    font-size: 12px;
+	color: white;
+	margin: 0px;
+	background: transparent url('../images/BackgroundForRepeat.png');
+	background-repeat:repeat-x;
+	background-color: #192863;
+/*    color: #555555;*/
+/*    background:#FFFFFF;*/
+/*	background:transparent url('../images/BackgroundForRepeat.png') repeat;*/
+}
+
+root { 
+    display: block;
+}
+
